@@ -1,0 +1,8 @@
+# すべてのファイル
+* @your-username
+
+# 特定のディレクトリ
+/src/frontend/ @frontend-team
+
+# 特定のファイル
+/docs/README.md @documentation-lead
